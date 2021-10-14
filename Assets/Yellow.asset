@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86e1dea353ae7446aef262d85f20092, type: 3}
+  m_Name: Yellow
+  m_EditorClassIdentifier: 
+  waypointsPrefab: {fileID: 8209007944734661244, guid: ce7e68d79ab68ff41b9e0e09a42e9c3b, type: 3}
